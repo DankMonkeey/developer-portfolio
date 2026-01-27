@@ -12,6 +12,9 @@
   top: 0;
   z-index: 9999;
 }
+.logo{
+  height: 30px;
+}
 .header ul {
   font-size: 11px;
   display: flex;

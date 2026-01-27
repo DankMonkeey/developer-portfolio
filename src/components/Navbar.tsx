@@ -66,11 +66,11 @@ const Navbar = () => {
   return (
     <>
       <div className="header">
-        <a href="/#" className="navbar-title" data-cursor="disable">
-        <img src="/images/logo.png"
-          alt="Corsair Collective Logo"
-  className="w-32 h-32"
- />
+        <a href="/#" className="" data-cursor="disable">
+          <img src="/images/logo.png"
+            alt="Corsair Collective Logo"
+            className="logo"
+          />
         </a>
         <a
           href="mailto:anas500.diabi@gmail.com"

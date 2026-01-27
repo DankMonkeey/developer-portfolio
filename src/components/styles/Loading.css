@@ -198,6 +198,9 @@
   font-size: 14px;
   letter-spacing: 0.2px;
 }
+.logo{
+  height: 30px;
+}
 @keyframes blink {
   0% {
     opacity: 0;
