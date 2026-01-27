@@ -1,14 +1,16 @@
 {
-  "name": "moncy-portfolio",
+  "name": "dank-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
+    "build": "vite build",
     "preview": "vite preview"
   },
+  "engines": {
+  "node": "20.x"
+},
   "dependencies": {
     "@react-three/cannon": "^6.6.0",
     "@react-three/drei": "^9.120.4",
