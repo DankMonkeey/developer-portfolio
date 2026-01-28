@@ -209,11 +209,14 @@ export const config = {
 
 ,
 
-  contact: {
+contact: {
     email: "anas500.diabi@gmail.com",
-    github: "https://github.com/anasdiabi",
-    linkedin: "https://linkedin.com",
-    instagram: "https://instagram.com"
+    github: "https://github.com/DankMonkeey",
+    linkedin: "https://www.linkedin.com/in/diabi-anas-264b912a2/",
+    instagram: "https://www.instagram.com/diabi._.anas.007/",
+    x: "https://twitter.com/",
+    twitter: "https://twitter.com/",
+    facebook: "https://facebook.com/anas.maroc.581"
   },
 
   skills: {
