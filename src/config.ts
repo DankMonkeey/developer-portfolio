@@ -21,7 +21,7 @@ export const config = {
 
   experiences: [
     {
-  position: "Diploma in Computer Graphics, Graphic Design & Website Creation",
+  position: "Graphic Design & Website Creation",
   company: "Big Academy Institute",
   period: "2025 - present ",
   location: "Agadir, Morocco",
